@@ -1,4 +1,4 @@
-# Task-2: AWS Cloud Monitoring and Alerts
+<img width="1920" height="1080" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/84d399bc-d0a5-42e0-9766-e9cd8cf39698" /># Task-2: AWS Cloud Monitoring and Alerts
 
 ## 🎯 Objective
 Configure cloud monitoring and alerts for a cloud-based application using AWS CloudWatch as part of internship deliverables.
@@ -38,3 +38,5 @@ Screenshots included:
 
 ## 🧠 Learning Outcome
 Gained hands-on experience with AWS CloudWatch monitoring, metric dashboards, and alert configurations.
+
+
