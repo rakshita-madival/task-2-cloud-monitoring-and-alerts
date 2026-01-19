@@ -40,3 +40,5 @@ Screenshots included:
 Gained hands-on experience with AWS CloudWatch monitoring, metric dashboards, and alert configurations.
 <img width="1920" height="1080" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/84d399bc-d0a5-42e0-9766-e9cd8cf39698" />
 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ea7ea962-4c6b-4f42-8b57-8e5d9aeeb48f" />
