@@ -42,3 +42,6 @@ Gained hands-on experience with AWS CloudWatch monitoring, metric dashboards, an
 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ea7ea962-4c6b-4f42-8b57-8e5d9aeeb48f" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4104536c-3321-477e-9857-dac4bec22baf" />
