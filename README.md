@@ -1,5 +1,5 @@
 # Task-2: AWS Cloud Monitoring and Alerts
-
+ 
 ## 🎯 Objective
 Configure cloud monitoring and alerts for a cloud-based application using AWS CloudWatch as part of internship deliverables.
 
