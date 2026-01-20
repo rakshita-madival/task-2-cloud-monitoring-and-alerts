@@ -1,3 +1,15 @@
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Rakshita Madival
+
+**INTERN ID:** CTIS3674
+
+**DOMAIN:** CLOUD COMPUTING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** Neela Santosh Kumar
+
 # Task-2: AWS Cloud Monitoring and Alerts
  
 ## 🎯 Objective
